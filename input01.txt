@@ -1,0 +1,7 @@
+5
+b aa c d b
+1 2 3 4 5
+3
+0 4 caaab
+0 4 xyz
+2 4 bcdybc

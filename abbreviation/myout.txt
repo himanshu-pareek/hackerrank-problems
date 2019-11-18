@@ -1,0 +1,19 @@
+YES
+NO
+YES
+YES
+YES
+YES
+NO
+YES
+YES
+YES
+
+countUpperInA = 232
+countUpperInA = 269
+countUpperInA = 448
+countUpperInA = 250
+countUpperInA = 278
+countUpperInA = 250
+countUpperInA = 260
+countUpperInA = 243
